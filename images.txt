@@ -1,3 +1,4 @@
 alpine
 kasmweb/nginx:1.25.3
-Kasmweb/Ubuntu-Focal-Desktop
+docker pull kasmweb/ubuntu-focal-desktop:1.14.0-rolling
+kasmweb/ubuntu-focal-desktop:1.14.0
