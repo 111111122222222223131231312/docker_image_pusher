@@ -1,1 +1,1 @@
-Portainer:lastest
+portainer/portainer
