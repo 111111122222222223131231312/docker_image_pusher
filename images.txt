@@ -1,3 +1,6 @@
-kasmweb/ubuntu-focal-desktop:1.14.0
-kasmweb/ubuntu-focal-desktop:1.14.0-rolling
-docker pull kasmweb/ubuntu-focal-desktop:1.14.0-rolling
+Portainer
+
+
+
+#名称+版本 没有版本 有一定几率不好用
+
