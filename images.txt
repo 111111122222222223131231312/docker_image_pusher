@@ -1,2 +1,2 @@
-pull ubuntu 22.04
+ubuntu/alist:22.04
 
